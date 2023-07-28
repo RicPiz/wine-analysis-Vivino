@@ -1,6 +1,6 @@
 # wine-analysis-Vivino
 
-## Final project of the master's program in Big Data Analytics at the University of Pisa
+### Final project of the master's program in Big Data Analytics at the University of Pisa
 
 This project is partitioned into three key phases: scraping the Vivino website for data extraction, data analysis through Data Analysis and Machine Learning techniques, and development of a script that suggests the ideal wine based on user-defined preferences.
 
