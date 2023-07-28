@@ -1,0 +1,64 @@
+secco
+abboccato
+amabile
+dolce
+stucchevole
+leggero
+abbastanza caldo
+caldo
+alcolico
+polifenoli
+spigoloso
+poco morbido
+morbido
+rotondo
+pastoso
+piatto
+poco fresco
+abbastanza fresco
+fresco
+acidulo
+molle
+poco tannico
+abbastanza tannico
+tannico
+astringente
+minerale
+scipito 
+sciocco
+sciapo
+poco sapido
+abbastanza sapido
+sapido
+salato
+poco equilibrato 
+abbastanza equilibrato 
+equilibrato
+carente
+poco intenso
+abbastanza Intenso
+intenso
+molto intenso
+corto
+poco persistente
+abbastanza persistente
+persistente
+molto persistente
+magro
+debole
+di corpo
+robusto
+pesante
+poco armonico
+abb. Armonico
+armonico
+comune
+poco fine
+abbastanza Fine
+fine
+eccellente
+immaturo
+giovane
+pronto
+maturo
+vecchio
