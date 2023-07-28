@@ -1,4 +1,7 @@
 # wine-analysis-Vivino
+
+## Final project of the master's program in Big Data Analytics at the University of Pisa
+
 This project is partitioned into three key phases: scraping the Vivino website for data extraction, data analysis through Data Analysis and Machine Learning techniques, and development of a script that suggests the ideal wine based on user-defined preferences.
 
 The initial segment of this endeavor involved creating multiple scraping programs intended to gather data on the wines listed on the Vivino e-commerce site. The starting point was to amass URLs related to wines. For this purpose, a target page was chosen on which all wines, sorted by color (red or white), are listed, with filters applied directly on the site for country (Italy) and price range (from minimum to maximum). A Javascript script was then utilized from the browser console to retrieve all URLs from the selected page. These were subsequently stored in a text file.
