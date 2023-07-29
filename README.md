@@ -1,8 +1,6 @@
 # wine-analysis-Vivino
 
-### Final group project of the master's program in Big Data Analytics at the University of Pisa --> [SoBigData](https://masterbigdata.it/en)
-
-Website: [](https://masterbigdata.it/sites/default/files/projects/2021-2022/wine/)
+### Final group project of the master's program in [Big Data Analytics](https://masterbigdata.it/en) at the University of Pisa
 
 This project is partitioned into three key phases: scraping the Vivino website for data extraction, data analysis through Data Analysis and Machine Learning techniques, and development of a script that suggests the ideal wine based on user-defined preferences.
 
@@ -19,3 +17,5 @@ The subsequent phase was dedicated to review analysis. A list of terminology typ
 A cluster analysis was subsequently conducted based on the taste structure type for the two categories of white and red wines, utilizing the `k-means` algorithm. Label clustering was also performed to identify potential correlations between the wine structure and the type of label affixed to the bottle. The `k-medoids` algorithm was chosen for this task, as it selects actual data points as centers (medoids), offering more interpretability of cluster centers than `k-means`, where the center is not necessarily one of the input data points, but rather the average of the points in the cluster.
 
 In conclusion, a script was composed which, via a system of filters, recommends the best wine according to user preferences.
+
+Here the italian [website](https://masterbigdata.it/sites/default/files/projects/2021-2022/wine/) of the project.
